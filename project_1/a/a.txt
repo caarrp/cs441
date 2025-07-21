@@ -1,2 +1,8 @@
  I believe this project relates to cmake.
+ 
+ Project 1a looks like a image differencer.
+ that seems to be a thing that verifys that 
+ images are correct. 
+    this directory will be my "differencer" 
+    directory. 
 
